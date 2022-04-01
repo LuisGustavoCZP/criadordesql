@@ -1,2 +1,2 @@
-# criadordesql
+# SQLizer - Criador de SQL
  
